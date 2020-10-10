@@ -1,0 +1,8 @@
+"Boss Config" is a mod that allows you to change stuff to bosses. Want to kill Moon Lord in one hit with the copper shortsword? 
+
+Version 1.0:
+- Mod name changed to "Boss Config";
+- Added HP, Damage, Defense, Knockback Resistance, AI Style, Invincibility, Gravity configuration;
+
+Version 0.1:
+- Mod created;

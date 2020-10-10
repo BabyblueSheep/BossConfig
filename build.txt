@@ -1,0 +1,3 @@
+displayName = Boss Config
+author = BabyblueSheep
+version = 1.0
